@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.howdev</groupId>
-    <artifactId>springcloud-microservice</artifactId>
+    <artifactId>springcloud-dev</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>springcloud-microservice</name>
-    <description>springcloud-microservice(haozhifeng)</description>
+    <name>springcloud-dev</name>
+    <description>springcloud-dev(haozhifeng)</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
