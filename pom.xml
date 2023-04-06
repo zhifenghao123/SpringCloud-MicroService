@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>springcloud-api-common</module>
+        <module>springcloud-provider-payment8001</module>
     </modules>
     <name>springcloud-dev</name>
     <description>springcloud-dev(haozhifeng)</description>
